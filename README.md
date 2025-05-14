@@ -1,1 +1,1 @@
-This is a bot that posts news articles on twitter. It ranges from sports, to politics, to even economics. Follow if you want random news in your twitter feed.
+This is a bot that posts news articles on twitter. It ranges from sports, to politics, to even economics. Side note: You will need to create your own .env file with your own API keys (from twitter, and the newsapi.org one that they give you). MAKE SURE ALL FILES ARE IN THE SAME DIRECTORY OTHERWISE IT WONT WORK. 
